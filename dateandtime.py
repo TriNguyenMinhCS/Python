@@ -6,5 +6,5 @@ now = datetime.now()
 print("now =", now)
 
 # dd/mm/YY H:M:S
-dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+dt_string = now.strftime("/%m/%Y %H:%M:%S")
 print("Ngay va gio hien tai =", dt_string)	
