@@ -1,0 +1,1 @@
+print("NGUYEN\n\tMINH\n\t\tTRI\n")
