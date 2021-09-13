@@ -1,6 +1,6 @@
 URL = input()
-https://google.com = []
-if URL is https://google.com:
+https = []
+if URL is https:
     print("google.com_secure")
 else:
     print("google.com_insecure")
