@@ -1,10 +1,17 @@
-String = input()
-count = {}
-vowels = 'ueoai'
-for i in String:
-    if i == 'ueoai' in String:
-        count[i] += 1
-    else:
-        count[i] = 1
-print(count)
-# i phải nằm trong String và có chứa những từ 'ueoai'
+str = input()
+strList = str.split()
+
+def isNum(n):
+    if n in '0123456789':
+        return True
+    return False
+
+so = []
+chu = []
+print(strList)
+for i in range (0, len(strList)):
+    if  strList[i]
+        so.append({strList})
+        chu.append({strList})
+print(so)
+print(chu)            
