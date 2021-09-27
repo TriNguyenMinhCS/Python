@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+s = sum([a, b, c])
+print("\nSum of container:", s)
